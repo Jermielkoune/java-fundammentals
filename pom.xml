@@ -21,7 +21,7 @@
     </developers>
 
     <modules>
-        <module>01-core-syntax</module>
+        <module>01-java-core-features</module>
     </modules>
 
     <properties>
